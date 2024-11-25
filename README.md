@@ -1,10 +1,10 @@
 To run:
 run this command in terminal or bash
-'''
+
 python template.py
 pip install -r requirements.txt
 streamlit run app.py
-'''
+
 
 Project Overview:
 
