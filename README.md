@@ -1,9 +1,9 @@
 To run:
 run this command in terminal or bash
 
-1.python template.py
-2.pip install -r requirements.txt
-3.streamlit run app.py
+	python template.py
+	pip install -r requirements.txt
+	streamlit run app.py
 
 
 Project Overview:
