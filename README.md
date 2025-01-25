@@ -1,7 +1,8 @@
 To run:
 run this command in terminal or bash
 
-	python template.py
+	git clone https://github.com/Parama-Guru/Speak.Genie/git
+ 	python template.py
 	pip install -r requirements.txt
 	streamlit run app.py
 
